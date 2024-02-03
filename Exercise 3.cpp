@@ -42,5 +42,6 @@ int main()
     sravn(mass, n, x);
 
     delete[] mass;
+    retrun 0;
 
 }
